@@ -1,0 +1,132 @@
+{
+  "intents": [
+    {
+      "tag":"early_signs",
+      "patterns": [
+      "what are some early signs of heart attack?",
+        "early signs?",
+        "some early signs",
+        "signs of an attack?",
+        "early symptoms of heart attack..",
+        "heart attack early symptoms",
+        "signs to be noted"
+      ],
+      "responses": [
+      "%%%%%%% SOME ARE %%%%%%%%%\n 1)Chest discomfort\n 2) Discomfort in other areas of the upper body.\n 3) Shortness of breath\n 5) Other possible signs include breaking out in a cold sweat, nausea or lightheadedness."
+      ]
+    },
+    {
+      "tag":"diet",
+      "patterns": [
+      "what are the prefered diet for heart?",
+        "what are the prefered diet for good heart?",
+        "good diet for heart include",
+        "Heatly diet plan for hearts",
+        "Diet plan",
+        "Prefered Diet",
+        "diet"
+      ],
+      "responses": [
+        "$$$$$$$$$$ PREFERED DIETS PLAN COULD BE $$$$$$$$$$$\n 1) Eat more vegetables and fruits\n 2) Select whole grains\n 3) Limit unhealthy fats\n 4) Choose low-fat protein sources\n 5) Reduce the salt (sodium) in your food\n"
+      ]
+    },
+    {
+      "tag":"tests",
+      "patterns": [
+      "what are the prefered tests for heart attacks?",
+        "prefered tests for heard attack?",
+        "Tests to be done?",
+        "tests included are?"
+      ],
+      "responses": [
+            "*** The below mentioned tests may help | contacting doctor is recommended ***\n 1) ElectroCardiogram\n 2) Treadmill stress test\n 3) Stress echocardiography\n 4) Nuclear stress test\n 5) Cardiac computed tomography (CT) Angiography\n 6) Cardiac Magnetic Resonance Imaging (MRI) stress test\n"
+      ]
+    },
+    {
+      "tag":"causes",
+      "patterns": [
+        "what causes heat attack?",
+        "Causes of heart attack",
+        "heart attack causes",
+        "Reasons behind heart attack?",
+        "Why heart attack occur?"
+      ],
+      "responses": [
+        "A heart attack occurs when one or more of your coronary arteries becomes blocked.\n Over time, a buildup of fatty deposits, including cholesterol, form substances called plaques,\n which can narrow the arteries (atherosclerosis).\n This condition, called coronary artery disease, causes most heart attacks.\n\n"
+      ]
+    },
+    {
+      "tag":"symptoms",
+      "patterns": [
+        "what are the symptoms?",
+        "what are the symptoms of heart attack?",
+        "symptoms",
+        "symptoms of heart attack",
+        "heart attack symptoms",
+        "attack symptoms"
+      ],
+      "responses": [
+        "*** POSSIBLE SYMPTOMS include ****\n 1) Tightness in chest\n 2) Pain in chest\n 3) Pain in neck\n 4) Pain in Back or Arms\n 5) Fatigue\n 6) Lightheadedness\n 7) Abnormal Heartbeat\n 8) Anxiety\n ARE MAJORILY OBSERVED\n"
+      ]
+    },
+    {
+      "tag":"languages",
+      "patterns": [
+        "languages supported?",
+        "supported languages",
+        "In which language do you provide support",
+        "Do u support any language?",
+        "languages",
+        "can i use any languages?",
+        "langs"
+      ],
+      "responses": [
+        "You can use any language to chat! WoW!... We support these languages!"
+      ]
+    },
+    {
+      "tag":"about",
+      "patterns": [
+        "what can you do?",
+        "what services do you provide?",
+        "how can you help?",
+        "can you help me?",
+        "about"
+      ],
+      "responses": [
+        "\n I come handy to get instant & latest update of heart health , being our priority \n You can use me as a quick-guide for facts on\n about healthy heart.  \n\n I can help with these following QUERIES>>\n 1)What are Symptoms of heat attack?\n 2)What causes heart attack\n 3)What are prefered medical TESTS need to be done\n 4)What are Healthy Heart diets\n 6)Some Signs to be noted!\n\n\n >>>> FEATURES We Support <<<<\n 1)Chatbot Features \n 2)Multi-Language Support (Ask me in any language)\n"
+      ]
+    },
+    {
+      "tag":"greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye","See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks","Thank you","That's helpful","Thank's a lot!"],
+      "responses": ["Happy to help!","Any time!","My pleasure"]
+    }
+  ]
+}

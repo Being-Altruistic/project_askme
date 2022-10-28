@@ -1,0 +1,9 @@
+['For Expected Long type of Target in train':
+https://discuss.pytorch.org/t/runtimeerror-expected-object-of-scalar-type-long-but-got-scalar-type-float-when-using-crossentropyloss/30542]
+
+
+
+'''
+TEST-CASES
+what will you do for me?
+'''
